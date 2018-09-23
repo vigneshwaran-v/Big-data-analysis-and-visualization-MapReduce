@@ -1,7 +1,8 @@
 # Big data analysis and visualization using Hadoop MapReduce and d3.js
 
 
-Generated sample wordcloud:
+Generated sample wordcloud
+----------------------------
 
 
 Facebook-Cambridge Analytics twitter word cloud:
